@@ -14,8 +14,3 @@
 - **orders** — заказы  
 - **order_ithems** — позиции заказов  
 - **products** — товары  
-
-## Как использовать
-1. Создать базу:
-   ```sql
-   CREATE DATABASE public_home;
